@@ -1,0 +1,21 @@
+body {
+    background-color: black !important;
+}
+
+.title {
+    color: white;
+}
+
+.navbar {
+    background-color: red;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.art h1,
+p,
+a {
+    color: white;
+}
